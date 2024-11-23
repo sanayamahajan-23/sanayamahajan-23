@@ -92,7 +92,8 @@ Redux,Nodejs,Expressjs***
 
  <h2>🐍 My Contributions 🐍</h2>
   <br>
- ![snake gif](https://github.com/sanayamahajan-23/sanayamahajan-23/blob/output/github-contribution-grid-snake.svg)
+
+   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 
